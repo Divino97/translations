@@ -113,4 +113,9 @@ Locales["sv"] = {
   requiresAdmin = "Du måste vara administratör för att använda detta",
   noPermission = "Du har inte behörighet att använda detta",
   couldNotCreateProfile = "Kunde inte skapa ny profil",
+
+  -- Sök/tabeller
+  noItemsMatchSearch = "Inga objekt matchar din sökning.",
+  noItemsMatchFilters = "Inga objekt matchar dina filter.",
+  items = "objekt",
 }

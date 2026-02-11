@@ -113,4 +113,9 @@ Locales["zh-tw"] = {
   requiresAdmin = "你需要管理員權限才能使用此功能",
   noPermission = "你沒有權限使用此功能",
   couldNotCreateProfile = "無法建立新設定檔",
+
+  -- 搜尋/表格
+  noItemsMatchSearch = "沒有項目符合您的搜尋。",
+  noItemsMatchFilters = "沒有項目符合您的篩選條件。",
+  items = "項目",
 }

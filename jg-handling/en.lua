@@ -113,4 +113,9 @@ Locales["en"] = {
   requiresAdmin = "You need to be an admin to use this",
   noPermission = "You do not have permission to use this",
   couldNotCreateProfile = "Could not create new profile",
+
+  -- Search/tables
+  noItemsMatchSearch = "No items match your search.",
+  noItemsMatchFilters = "No items match your filters.",
+  items = "items",
 }

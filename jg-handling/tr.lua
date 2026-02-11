@@ -105,4 +105,9 @@ Locales["tr"] = {
   requiresAdmin = "Bunu kullanmak için yönetici olmalısınız",
   noPermission = "Bunu kullanmak için yetkiniz yok",
   couldNotCreateProfile = "Yeni profil oluşturulamadı",
+
+  -- Arama/tablolar
+  noItemsMatchSearch = "Aramanızla eşleşen öğe bulunamadı.",
+  noItemsMatchFilters = "Filtrelerinizle eşleşen öğe bulunamadı.",
+  items = "öğe",
 }

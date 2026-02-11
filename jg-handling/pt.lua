@@ -113,4 +113,9 @@ Locales["pt"] = {
   requiresAdmin = "Você precisa ser uma administrador para usar isso",
   noPermission = "Você não tem permissão suficiente para isso",
   couldNotCreateProfile = "Não foi possível criar um perfil",
+
+  -- Pesquisa/tabelas
+  noItemsMatchSearch = "Nenhum item corresponde à sua pesquisa.",
+  noItemsMatchFilters = "Nenhum item corresponde aos seus filtros.",
+  items = "itens",
 }

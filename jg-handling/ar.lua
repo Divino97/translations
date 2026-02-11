@@ -113,4 +113,9 @@ Locales["ar"] = {
   requiresAdmin = "تحتاج إلى أن تكون مسؤولاً لاستخدام هذا",
   noPermission = "ليس لديك إذن لاستخدام هذا",
   couldNotCreateProfile = "تعذر إنشاء ملف شخصي جديد",
+
+  -- البحث/الجداول
+  noItemsMatchSearch = "لا توجد عناصر تطابق بحثك.",
+  noItemsMatchFilters = "لا توجد عناصر تطابق عوامل التصفية.",
+  items = "عناصر",
 }
