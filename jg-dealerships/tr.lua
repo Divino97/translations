@@ -366,6 +366,7 @@ Locales['tr'] = {
   truckingMissionFailedFindCargo = "Görev başarısız: Oluşturulan kargo bulunamadı",
   truckingVehiclesLoaded = "%{count} araç yüklendi",
   truckingWrongTrailer = "Yanlış treyler! Doğru görev treylerini bağlamalısınız.",
+  truckingTrailerNotAttached = "Treyler bağlı değil! Teslimatı tamamlamak için tekrar bağlamalısınız.",
   truckingTrailerAttached = "Treyler bağlandı - devam etmeye hazır",
   truckingDriveToPickupLocation = "Teslim alma noktasına sürün",
   truckingWaitingForVehicles = "Araç yüklenmesi bekleniyor...",

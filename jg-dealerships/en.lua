@@ -368,6 +368,7 @@ Locales['en'] = {
   truckingMissionFailedFindCargo = "Mission Failed: Could not find spawned cargo",
   truckingVehiclesLoaded = "%{count} vehicle%{s} loaded",
   truckingWrongTrailer = "Wrong trailer! You must attach the correct mission trailer.",
+  truckingTrailerNotAttached = "Trailer not attached! You must re-attach it to complete the delivery.",
   truckingTrailerAttached = "Trailer attached - ready to continue",
   truckingDriveToPickupLocation = "Drive to the pickup location",
   truckingWaitingForVehicles = "Waiting for vehicles to load...",

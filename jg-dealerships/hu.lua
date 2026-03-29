@@ -366,6 +366,7 @@ Locales['hu'] = {
   truckingMissionFailedFindCargo = "Küldetés sikertelen: Nem sikerült megtalálni a létrehozott rakományt",
   truckingVehiclesLoaded = "%{count} jármű berakodva",
   truckingWrongTrailer = "Rossz pótkocsi! A megfelelő küldetés pótkocsit kell csatlakoztatnod.",
+  truckingTrailerNotAttached = "Pótkocsi nincs csatlakoztatva! Újra kell csatlakoztatnod a szállítás befejezéséhez.",
   truckingTrailerAttached = "Pótkocsi csatlakoztatva - kész a folytatásra",
   truckingDriveToPickupLocation = "Hajts a felvételi pontra",
   truckingWaitingForVehicles = "Várakozás a járművek berakodására...",

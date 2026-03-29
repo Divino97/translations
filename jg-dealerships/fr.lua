@@ -367,6 +367,7 @@ Locales['fr'] = {
   truckingMissionFailedFindCargo = "Mission échouée: Impossible de trouver le fret apparu",
   truckingVehiclesLoaded = "%{count} véhicule%{s} chargé",
   truckingWrongTrailer = "Mauvaise remorque! Vous devez attacher la bonne remorque de mission.",
+  truckingTrailerNotAttached = "Remorque non attachée! Vous devez la rattacher pour terminer la livraison.",
   truckingTrailerAttached = "Remorque attachée - prêt à continuer",
   truckingDriveToPickupLocation = "Conduisez jusqu'au point de collecte",
   truckingWaitingForVehicles = "En attente du chargement des véhicules...",

@@ -366,6 +366,7 @@ Locales['de'] = {
   truckingMissionFailedFindCargo = "Mission fehlgeschlagen: Gespawnte Fracht konnte nicht gefunden werden",
   truckingVehiclesLoaded = "%{count} Fahrzeug%{s} geladen",
   truckingWrongTrailer = "Falscher Anhänger! Sie müssen den richtigen Missionsanhänger anhängen.",
+  truckingTrailerNotAttached = "Anhänger nicht angehängt! Sie müssen ihn erneut anhängen, um die Lieferung abzuschließen.",
   truckingTrailerAttached = "Anhänger angehängt - bereit fortzufahren",
   truckingDriveToPickupLocation = "Fahren Sie zum Abholort",
   truckingWaitingForVehicles = "Warten auf Fahrzeugbeladung...",

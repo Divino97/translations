@@ -364,6 +364,7 @@ Locales['ja'] = {
   truckingMissionFailedFindCargo = "ミッション失敗: 生成されたカーゴが見つかりませんでした",
   truckingVehiclesLoaded = "%{count}台の車両を積載",
   truckingWrongTrailer = "間違ったトレーラーです！正しいミッショントレーラーを接続してください。",
+  truckingTrailerNotAttached = "トレーラーが接続されていません！配送を完了するには再接続してください。",
   truckingTrailerAttached = "トレーラー接続完了 - 続行準備完了",
   truckingDriveToPickupLocation = "ピックアップポイントまで運転",
   truckingWaitingForVehicles = "車両の積載を待っています...",

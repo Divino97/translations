@@ -366,6 +366,7 @@ Locales['sv'] = {
   truckingMissionFailedFindCargo = "Uppdrag misslyckades: Kunde inte hitta skapad last",
   truckingVehiclesLoaded = "%{count} fordon lastat",
   truckingWrongTrailer = "Fel släp! Du måste koppla rätt uppdragssläp.",
+  truckingTrailerNotAttached = "Släp inte kopplat! Du måste koppla det igen för att slutföra leveransen.",
   truckingTrailerAttached = "Släp kopplat - redo att fortsätta",
   truckingDriveToPickupLocation = "Kör till upphämtningspunkten",
   truckingWaitingForVehicles = "Väntar på att fordon lastas...",

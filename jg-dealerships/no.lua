@@ -366,6 +366,7 @@ Locales['no'] = {
   truckingMissionFailedFindCargo = "Oppdrag mislyktes: Kunne ikke finne opprettet last",
   truckingVehiclesLoaded = "%{count} kjøretøy lastet",
   truckingWrongTrailer = "Feil tilhenger! Du må koble til riktig oppdragstilhenger.",
+  truckingTrailerNotAttached = "Tilhenger ikke koblet til! Du må koble den til igjen for å fullføre leveransen.",
   truckingTrailerAttached = "Tilhenger koblet til - klar til å fortsette",
   truckingDriveToPickupLocation = "Kjør til hentepunktet",
   truckingWaitingForVehicles = "Venter på lasting av kjøretøy...",

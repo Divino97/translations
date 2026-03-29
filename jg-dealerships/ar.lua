@@ -366,6 +366,7 @@ Locales['ar'] = {
   truckingMissionFailedFindCargo = "فشلت المهمة: تعذر العثور على الشحنة المنشأة",
   truckingVehiclesLoaded = "تم تحميل %{count} مركبة",
   truckingWrongTrailer = "مقطورة خاطئة! يجب ربط مقطورة المهمة الصحيحة.",
+  truckingTrailerNotAttached = "المقطورة غير مربوطة! يجب إعادة ربطها لإكمال التسليم.",
   truckingTrailerAttached = "تم ربط المقطورة - جاهز للمتابعة",
   truckingDriveToPickupLocation = "اقترب من نقطة الاستلام",
   truckingWaitingForVehicles = "في انتظار تحميل المركبات...",

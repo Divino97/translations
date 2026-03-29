@@ -367,6 +367,7 @@ Locales['it'] = {
   truckingMissionFailedFindCargo = "Missione fallita: Impossibile trovare il cargo generato",
   truckingVehiclesLoaded = "%{count} veicol%{s} caricato",
   truckingWrongTrailer = "Rimorchio sbagliato! Devi agganciare il rimorchio della missione corretto.",
+  truckingTrailerNotAttached = "Rimorchio non agganciato! Devi riagganciarlo per completare la consegna.",
   truckingTrailerAttached = "Rimorchio agganciato - pronto a proseguire",
   truckingDriveToPickupLocation = "Guida fino al punto di ritiro",
   truckingWaitingForVehicles = "In attesa del caricamento dei veicoli...",

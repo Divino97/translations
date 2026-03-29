@@ -366,6 +366,7 @@ Locales['nl'] = {
   truckingMissionFailedFindCargo = "Missie mislukt: Kon de gespawnde cargo niet vinden",
   truckingVehiclesLoaded = "%{count} voertuig%{s} geladen",
   truckingWrongTrailer = "Verkeerde trailer! Je moet de juiste missie trailer aankoppelen.",
+  truckingTrailerNotAttached = "Trailer niet aangekoppeld! Je moet hem opnieuw aankoppelen om de levering te voltooien.",
   truckingTrailerAttached = "Trailer aangekoppeld - klaar om verder te gaan",
   truckingDriveToPickupLocation = "Rijd naar het ophaalpunt",
   truckingWaitingForVehicles = "Wachten op het laden van voertuigen...",

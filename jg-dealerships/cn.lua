@@ -367,6 +367,7 @@ Locales['cn'] = {
   truckingMissionFailedFindCargo = "任务失败：无法找到生成的货物",
   truckingVehiclesLoaded = "已装载 %{count} 辆车",
   truckingWrongTrailer = "错误的挂车！您必须连接正确的任务挂车。",
+  truckingTrailerNotAttached = "挂车未连接！您必须重新连接挂车才能完成交付。",
   truckingTrailerAttached = "挂车已连接 - 准备继续",
   truckingDriveToPickupLocation = "驾驶前往取货点",
   truckingWaitingForVehicles = "等待车辆装载...",

@@ -366,6 +366,7 @@ Locales['lt'] = {
   truckingMissionFailedFindCargo = "Misija nepavyko: Nepavyko rasti sukurto krovinio",
   truckingVehiclesLoaded = "%{count} transporto priemonė(-ės) pakrauta",
   truckingWrongTrailer = "Neteisinga priekaba! Turite prijungti teisingą misijos priekabą.",
+  truckingTrailerNotAttached = "Priekaba neprijungta! Turite ją vėl prijungti, kad užbaigtumėte pristatymą.",
   truckingTrailerAttached = "Priekaba prijungta - pasiruošę tęsti",
   truckingDriveToPickupLocation = "Važiuokite į paėmimo tašką",
   truckingWaitingForVehicles = "Laukiama transporto priemonių pakrovimo...",

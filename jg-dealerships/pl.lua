@@ -366,6 +366,7 @@ Locales['pl'] = {
   truckingMissionFailedFindCargo = "Misja nieudana: Nie można znaleźć wygenerowanego ładunku",
   truckingVehiclesLoaded = "%{count} pojazd(ów) załadowanych",
   truckingWrongTrailer = "Zła przyczepa! Musisz podłączyć właściwą przyczepę misji.",
+  truckingTrailerNotAttached = "Przyczepa nie jest podłączona! Musisz ją ponownie podłączyć, aby zakończyć dostawę.",
   truckingTrailerAttached = "Przyczepa podłączona - gotowy do kontynuowania",
   truckingDriveToPickupLocation = "Jedź do punktu odbioru",
   truckingWaitingForVehicles = "Oczekiwanie na załadunek pojazdów...",

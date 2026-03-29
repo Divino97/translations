@@ -367,6 +367,7 @@ Locales['cs'] = {
   truckingMissionFailedFindCargo = "Mise selhala: Nepodařilo se najít vytvořený náklad",
   truckingVehiclesLoaded = "%{count} vozidel naloženo",
   truckingWrongTrailer = "Špatný návěs! Musíte připojit správný misijní návěs.",
+  truckingTrailerNotAttached = "Návěs není připojen! Musíte ho znovu připojit pro dokončení dodávky.",
   truckingTrailerAttached = "Návěs připojen - připraveno pokračovat",
   truckingDriveToPickupLocation = "Jeďte na místo vyzvednutí",
   truckingWaitingForVehicles = "Čekání na naložení vozidel...",
