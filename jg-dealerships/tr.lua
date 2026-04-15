@@ -533,6 +533,11 @@ Locales['tr'] = {
   location = "konum",
   manageLocations = "Konumları yönet",
 
+  -- v2: Spawn points creator
+  spawnPoints = "Doğma Noktaları",
+  noSpawnPoints = "Doğma noktası yok",
+  manageSpawnPoints = "Doğma noktalarını yönet",
+
   -- v2: Interaction modal
   interactionType = "Tür",
   nicknameOptional = "Takma ad (İsteğe bağlı)",

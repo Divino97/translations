@@ -531,6 +531,11 @@ Locales['ja'] = {
   location = "ロケーション",
   manageLocations = "ロケーションを管理",
 
+  -- v2: Spawn points creator
+  spawnPoints = "スポーンポイント",
+  noSpawnPoints = "スポーンポイントなし",
+  manageSpawnPoints = "スポーンポイントを管理",
+
   -- v2: Interaction modal
   interactionType = "タイプ",
   nicknameOptional = "ニックネーム（オプション）",

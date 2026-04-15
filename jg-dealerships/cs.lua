@@ -536,6 +536,11 @@ Locales['cs'] = {
   location = "lokace",
   manageLocations = "Spravovat lokace",
 
+  -- v2: Spawn points creator
+  spawnPoints = "Spawn body",
+  noSpawnPoints = "Žádné spawn body",
+  manageSpawnPoints = "Spravovat spawn body",
+
   -- v2: Interaction modal
   interactionType = "Typ",
   nicknameOptional = "Přezdívka (volitelné)",

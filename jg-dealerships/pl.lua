@@ -533,6 +533,11 @@ Locales['pl'] = {
   location = "lokalizacja",
   manageLocations = "Zarządzaj lokalizacjami",
 
+  -- v2: Spawn points creator
+  spawnPoints = "Punkty spawnu",
+  noSpawnPoints = "Brak punktów spawnu",
+  manageSpawnPoints = "Zarządzaj punktami spawnu",
+
   -- v2: Interaction modal
   interactionType = "Typ",
   nicknameOptional = "Pseudonim (Opcjonalny)",

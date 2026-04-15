@@ -533,6 +533,11 @@ Locales['nl'] = {
   location = "locatie",
   manageLocations = "Locaties beheren",
 
+  -- v2: Spawn points creator
+  spawnPoints = "Spawnpunten",
+  noSpawnPoints = "Geen spawnpunten",
+  manageSpawnPoints = "Spawnpunten beheren",
+
   -- v2: Interaction modal
   interactionType = "Type",
   nicknameOptional = "Bijnaam (Optioneel)",

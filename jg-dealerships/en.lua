@@ -531,6 +531,11 @@ Locales['en'] = {
   location = "location",
   manageLocations = "Manage Locations",
 
+  -- v2: Spawn points creator
+  spawnPoints = "Spawn Points",
+  noSpawnPoints = "No spawn points",
+  manageSpawnPoints = "Manage Spawn Points",
+
   -- v2: Interaction modal
   interactionType = "Type",
   nicknameOptional = "Nickname (Optional)",
@@ -561,6 +566,7 @@ Locales['en'] = {
   interactionPointDesc = "Single resizeable point, with optional marker",
   interactionPolyzone = "Polyzone",
   interactionPolyzoneDesc = "Multi-coordinate zone for creating a specific interaction area",
+  zoneHeight = "Zone Height",
   interactionVehicle = "Vehicle",
   interactionVehicleDesc = "Spawn a vehicle model, ideal for target or 3D text UI interaction methods",
   interactionObject = "Object",

@@ -533,6 +533,11 @@ Locales['hu'] = {
   location = "helyszín",
   manageLocations = "Helyszínek kezelése",
 
+  -- v2: Spawn points creator
+  spawnPoints = "Spawn pontok",
+  noSpawnPoints = "Nincsenek spawn pontok",
+  manageSpawnPoints = "Spawn pontok kezelése",
+
   -- v2: Interaction modal
   interactionType = "Típus",
   nicknameOptional = "Becenév (Opcionális)",

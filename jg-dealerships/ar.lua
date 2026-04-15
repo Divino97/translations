@@ -535,6 +535,11 @@ Locales['ar'] = {
   location = "الموقع",
   manageLocations = "إدارة المواقع",
 
+  -- v2: Spawn points creator
+  spawnPoints = "نقاط الظهور",
+  noSpawnPoints = "لا توجد نقاط ظهور",
+  manageSpawnPoints = "إدارة نقاط الظهور",
+
   -- v2: Interaction modal
   interactionType = "النوع",
   nicknameOptional = "اللقب (اختياري)",

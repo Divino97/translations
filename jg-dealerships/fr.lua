@@ -534,6 +534,11 @@ Locales['fr'] = {
   location = "emplacement",
   manageLocations = "Gérer les emplacements",
 
+  -- v2: Spawn points creator
+  spawnPoints = "Points d'apparition",
+  noSpawnPoints = "Aucun point d'apparition",
+  manageSpawnPoints = "Gérer les points d'apparition",
+
   -- v2: Interaction modal
   interactionType = "Type",
   nicknameOptional = "Surnom (Optionnel)",

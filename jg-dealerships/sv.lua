@@ -533,6 +533,11 @@ Locales['sv'] = {
   location = "plats",
   manageLocations = "Hantera platser",
 
+  -- v2: Spawn points creator
+  spawnPoints = "Spawnpunkter",
+  noSpawnPoints = "Inga spawnpunkter",
+  manageSpawnPoints = "Hantera spawnpunkter",
+
   -- v2: Interaction modal
   interactionType = "Typ",
   nicknameOptional = "Smeknamn (Valfritt)",

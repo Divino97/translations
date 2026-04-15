@@ -533,6 +533,11 @@ Locales['no'] = {
   location = "lokasjon",
   manageLocations = "Administrer lokasjoner",
 
+  -- v2: Spawn points creator
+  spawnPoints = "Spawn-punkter",
+  noSpawnPoints = "Ingen spawn-punkter",
+  manageSpawnPoints = "Administrer spawn-punkter",
+
   -- v2: Interaction modal
   interactionType = "Type",
   nicknameOptional = "Kallenavn (Valgfritt)",

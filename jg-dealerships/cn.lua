@@ -536,6 +536,11 @@ Locales['cn'] = {
   location = "位置",
   manageLocations = "管理位置",
 
+  -- v2: Spawn points creator
+  spawnPoints = "出生点",
+  noSpawnPoints = "没有出生点",
+  manageSpawnPoints = "管理出生点",
+
   -- v2: Interaction modal
   interactionType = "类型",
   nicknameOptional = "昵称（可选）",
